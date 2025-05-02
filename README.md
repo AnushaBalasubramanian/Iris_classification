@@ -41,13 +41,6 @@ The Iris dataset contains 150 rows of flower measurements:
 
 ---
 
-## 📸 Output Visualization
-
-Here is the Confusion Matrix of my model’s predictions:
-
-![Confusion Matrix](confusion_matrix.png)
-
----
 
 ## 📈 Results
 
